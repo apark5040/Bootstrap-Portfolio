@@ -1,0 +1,55 @@
+body {
+    background-color: #777777;
+    margin: 0;
+}
+
+.navbar {
+    border-bottom: solid 2px teal;
+    
+}
+
+h1 {
+    background-color: white;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.mynav {
+    position: fixed;
+    right: 0;
+}
+
+img {
+    margin: 10px;
+    float: left;
+}
+
+.contactpage {
+    margin-top: 50px;
+}
+
+
+.aboutme {
+    margin-top: 50px;
+}
+
+.footer {
+    background-color: darkgrey;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    margin: 0;
+    border-top: solid 2px teal;
+}
+
+.copyright {
+    text-align: center;
+    padding: 10px;
+}
+
+.card-text {
+    float: left;
+}
