@@ -5,7 +5,6 @@ body {
 
 .navbar {
     border-bottom: solid 2px teal;
-    
 }
 
 h1 {
@@ -16,7 +15,7 @@ h1 {
 }
 
 .mynav {
-    position: fixed;
+    position: absolute;
     right: 0;
 }
 
@@ -32,6 +31,10 @@ img {
 
 .aboutme {
     margin-top: 50px;
+}
+
+.container {
+    margin-bottom: 85px;
 }
 
 .footer {
